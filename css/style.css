@@ -35,7 +35,6 @@ p {
   }
 }
 
-
 .submit-color {
   background-color: #DE660D;
   color: white;
@@ -56,4 +55,8 @@ p {
 footer {
   background-color: #343a40;
   text-align: center;
+}
+
+.card {
+  border-radius: 0;
 }

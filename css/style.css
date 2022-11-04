@@ -33,6 +33,10 @@ p {
   .row {
     margin-bottom: 30px;
   }
+
+  #page-top {
+    display: none;
+  }
 }
 
 .submit-color {
@@ -71,6 +75,7 @@ footer {
   right: 20px;
   bottom: 20px;
   background-color: #FFA500;
+  z-index: 999
 }
 
 #page-top a {
